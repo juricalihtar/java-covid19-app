@@ -1,0 +1,9 @@
+3
+Upala pluća
+3,2
+1
+Gripa
+3,1,2
+2
+Prehlada
+1
