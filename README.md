@@ -3,4 +3,4 @@
 * username: student
 * password: student
 
-In dat/skriprtabazepodataka.sql file is a script for creating and populating a database.
+In dat/skriprtabazepodataka.sql file is a script for creating and inserting into a database.
